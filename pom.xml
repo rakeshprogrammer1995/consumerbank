@@ -31,8 +31,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-</project>
-<properties>
+	<properties>
    <maven.compiler.source>6</maven.compiler.source>
    <maven.compiler.target>1.6</maven.compiler.target>
  </properties>
+</project>
+
